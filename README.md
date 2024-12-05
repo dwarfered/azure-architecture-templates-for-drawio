@@ -1,3 +1,3 @@
 # azure-architecture-templates-for-drawio
 
-A collection of Azure Architecture Templates, to assist in crafting architecture diagrams in draw.io.
+A collection of Azure templates, to assist in crafting architecture diagrams in draw.io.
